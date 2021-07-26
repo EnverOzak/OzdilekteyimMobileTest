@@ -1,0 +1,46 @@
+Created by Enver Özak on 15.06.2021
+
+# Open Application and Check if Home Page is Opened
+* Manage Wait
+* Check if "Logo" is visible by id in "HomePage.json" and print "Apllication is Open"
+
+# Open Store and Check
+* Click on element "StartShopping" by id in "HomePage.json"
+* Wait "2" seconds
+* Check if "MarketButton" is visible by id in "Store.json" and print "Store is Open"
+
+# Open Categories and Check
+* Click on element "CategoriesButton" by id in "Store.json"
+* Wait "2" seconds
+* Check if "Categories" is visible by id in "Categories.json" and print "Categories is Open"
+
+# Open Woman Trousers Page
+* Click on element "Woman" by xpath in "Categories.json"
+* Wait "2" seconds
+* Click on element "Trousers" by xpath in "Categories.json"
+* Wait "2" seconds
+
+# Swipe to Bottom of the Page and Add Last Product to Favorites
+* Swipe "26" times
+* Click on element "AddLastOneFavorite" by xpath in "Categories.json"
+* Wait "2" seconds
+
+# Check Operations
+* Check if "LoginButton" is visible by id in "Check.json" and print "Login Page is Open"
+* Wait "2" seconds
+* Click on element "BackButton" by id in "Check.json"
+* Wait "2" seconds
+* Check if "CategoriesButton" is visible by id in "Check.json" and print "Categories is Open Again"
+* Wait "2" seconds
+* Click on element "AccountButton" by id in "Check.json"
+* Wait "2" seconds
+* Check if "LoginButton" is visible by id in "Check.json" and print "Login Page is Open"
+* Wait "2" seconds
+* Click on element "BackButton" by id in "Check.json"
+* Wait "2" seconds
+* Check if "CategoriesButton" is visible by id in "Check.json" and print "Categories is Open Again"
+* Wait "2" seconds
+* Click on element "CartButton" by id in "Check.json"
+* Wait "2" seconds
+* Check if "LoginButton" is visible by id in "Check.json" and print "Login Page is Open"
+* Wait "2" seconds

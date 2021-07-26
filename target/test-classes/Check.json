@@ -1,0 +1,41 @@
+[
+  {
+    "key": "LoginButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/btnLogin",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "BackButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/ivBack",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "CategoriesButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/nav_categories",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "AccountButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/nav_account",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "CartButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/nav_cart",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]

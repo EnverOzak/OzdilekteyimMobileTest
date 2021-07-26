@@ -1,0 +1,33 @@
+[
+  {
+    "key": "Categories",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/recyclerCategories",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "Woman",
+    "androidValue": "//*[@text='Kadın']",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "Trousers",
+    "androidValue": "//*[@text='Pantolon']",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "AddLastOneFavorite",
+    "androidValue": "//*[@class = 'androidx.recyclerview.widget.RecyclerView']//*[@class = 'android.widget.FrameLayout'][last()]//*[contains(@resource-id,'com.ozdilek.ozdilekteyim:id/ivFavorite')]",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]

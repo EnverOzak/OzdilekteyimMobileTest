@@ -1,0 +1,17 @@
+[
+  {
+    "key": "MarketButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/relLayMarket",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "CategoriesButton",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/nav_categories",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]

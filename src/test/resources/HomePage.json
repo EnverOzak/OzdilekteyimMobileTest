@@ -1,0 +1,17 @@
+[
+  {
+    "key": "StartShopping",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "Logo",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/iv_storeTopLogo",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]
